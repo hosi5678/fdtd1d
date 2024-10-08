@@ -1,0 +1,20 @@
+# these are ignored.
+./csv_files/
+./ey_timestep/
+./hz_timestep/
+./build/
+./graph/
+./mp4/
+./ey_pngs/
+./hz_pngs/
+./myenv/
+./matplotlib-cpp/
+./pngs/
+
+*.png
+*.mp4
+*.txt
+*.json
+*.csv
+
+!CMakeLists.txt
