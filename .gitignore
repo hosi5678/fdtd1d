@@ -1,4 +1,5 @@
 # these are ignored.
+./build/
 ./csv_files/
 ./ey_timestep/
 ./hz_timestep/
