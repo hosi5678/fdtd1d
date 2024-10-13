@@ -11,10 +11,15 @@
 ./matplotlib-cpp/
 ./pngs/
 
+git_init.py
+
 *.png
 *.mp4
 *.txt
 *.json
 *.csv
 
+.gitignore
+
+# not ignore.
 !CMakeLists.txt

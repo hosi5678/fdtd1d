@@ -134,3 +134,11 @@ for i in range(timestep):
     # メモリの解放
     plt.clf()
     plt.close()
+
+# python3 -m venv myenv
+
+# 2.仮想環境をアクティブにする:
+# source myenv/bin/activate
+
+# 3.パッケージをインストール:
+# pip install pandas
